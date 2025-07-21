@@ -1,5 +1,5 @@
 🏡 RealEstate
-A modern, full-stack real estate platform built with the MERN stack (React, Node.js) and styled using Tailwind CSS. Users can browse, list, and manage properties for rent or sale.
+A modern, full-stack real estate platform built with the MERN stack (React js) and styled using Tailwind CSS. Users can browse, list, and manage properties for rent or sale.
 
 
 🚀 Features
@@ -10,4 +10,4 @@ A modern, full-stack real estate platform built with the MERN stack (React, Node
 - 📱 Fully responsive UI with Tailwind CSS
   
 🛠️ Tech Stack
-| React + Tailwind | Node.js + Express | 
+| React + Tailwind |  
