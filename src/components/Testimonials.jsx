@@ -10,7 +10,7 @@ const Testimonials = () => {
             <h1 className='text-4xl font-bold  mb-2'>Customer  <span className='font-light'>Testimonials </span></h1>
             <p className='text-gray-500 max-w-80 text-center mb-8 '>Real Stories from Those Who Found Home with Us</p>
 
-            <div className='flex flex-wrap gap-9 mt-3 justify-center md:justify-start'>
+            <div className='flex flex-wrap gap-9 mt-3 justify-center md:justify-center'>
                 {/* Card 1 */}
                 <div className='bg-white border border-gray-200   rounded-lg  w-80 p-6 max-w-sm flex flex-col items-center text-center'>
                     <img className='w-24 h-24 rounded-full mb-4' src={profile_image_1} alt="Profile 1" />

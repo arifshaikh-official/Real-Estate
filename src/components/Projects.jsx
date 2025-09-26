@@ -29,7 +29,7 @@ const Projects = () => {
 
             {/* Projects Slidebar */}
 
-            <div className="flex flex-row justify-center gap-6  py-4">
+            <div className="flex flex-row justify-center gap-6 max-w-full">
                 
                 <div className='text-center bg-blue-200 '>
                     <img src={project_image_1} alt="Project 1" className="h-100 object-cover" />
